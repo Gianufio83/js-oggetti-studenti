@@ -33,6 +33,7 @@
 }
 .message-text {
   padding: 0 10px;
+  color: black;
 }
  small .message-time  {
   color: black;

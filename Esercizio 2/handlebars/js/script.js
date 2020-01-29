@@ -10,6 +10,10 @@ $(document).ready(function () {
       'answer' : 'Ti chiamo più tardi',
       'time'  : time
     };
+    // var risposta2 = {
+    //
+    //   'time' : time
+    // }
     var source = $('#entry-template').html();
     var template = Handlebars.compile(source);
 
